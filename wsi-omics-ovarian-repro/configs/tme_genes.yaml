@@ -1,0 +1,19 @@
+
+CAF:
+  - COL1A1
+  - COL1A2
+  - COL3A1
+  - ACTA2
+  - FAP
+Tcell:
+  - CD3D
+  - CD3E
+  - CD2
+  - CD8A
+  - CD8B
+Endothelial:
+  - PECAM1
+  - VWF
+  - KDR
+  - ENG
+  - CD34

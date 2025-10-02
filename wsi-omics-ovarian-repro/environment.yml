@@ -1,0 +1,25 @@
+
+name: wsi-omics-ovarian
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pyyaml
+  - tqdm
+  - openslide
+  - openslide-python
+  - pytorch
+  - torchvision
+  - pip
+  - pip:
+      - timm
+      - huggingface_hub
+      - lifelines
+      - torchmetrics

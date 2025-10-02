@@ -1,0 +1,9 @@
+
+DATA_ROOT: data
+WSI_DIR: data/WSI/TCGA_OV
+TILES_DIR: data/tiles/20x_256
+FEATURES_DIR: data/features/gigapath_20x256
+SLIDE_FEATURES_CSV: data/slide_features/gigapath_20x256_mean.csv
+SURVIVAL_CSV: data/clinical/tcga_ov_survival.csv
+TME_LABELS_CSV: data/labels/tme_k4_labels.csv
+OUTPUTS_DIR: outputs

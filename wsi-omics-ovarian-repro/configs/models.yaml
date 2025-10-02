@@ -1,0 +1,3 @@
+
+feature_model: gigapath  # gigapath | chief
+embed_dim: 1536          # Prov-GigaPath default; set accordingly for CHIEF

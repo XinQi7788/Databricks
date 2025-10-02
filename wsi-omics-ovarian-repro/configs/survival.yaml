@@ -1,0 +1,4 @@
+
+hidden_dim: 256
+lr: 0.001
+max_epochs: 50
