@@ -23,6 +23,7 @@ References:
 Create a fresh conda env:
 
 ```bash
+conda update -n base -c defaults conda
 conda env create -f environment.yml
 conda activate wsi-omics-ovarian
 ```
