@@ -33,6 +33,10 @@ GPU is recommended. For Prov-GigaPath tile encoder from HuggingFace, set a read 
 ```bash
 export HF_TOKEN=YOUR_READ_ONLY_TOKEN
 ```
+OR
+```Windows 
+set HF_TOKEN=YOUR_READ_ONLY_TOKEN
+```
 
 ---
 
